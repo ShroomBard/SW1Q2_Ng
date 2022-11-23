@@ -1,0 +1,32 @@
+h1{
+	background-image: linear-gradient(to right, #24a1a3, #db375d)
+
+
+}
+
+table {
+	background-color:rgba(160, 103, 191,0.3);
+}
+img {
+	height: 500px;
+	width: 380px;
+	margin-bottom: 6px
+}
+body {
+	background-image: url(space.gif);
+	background-size: cover;
+	color: #ffffffff
+
+}
+td {
+	text-align: center;
+}
+ul {
+	text-align: left
+}
+a {
+	color: lightblue
+}
+h3 {
+	text-decoration: underline;
+}
